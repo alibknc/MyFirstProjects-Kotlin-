@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/post_item_mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Deneme"
+        android:textSize="20sp"
+        android:layout_margin="5dp"
+        android:textColor="#043ECF"
+        >
+    </TextView>
+
+    <ImageView
+        android:id="@+id/post_item_image"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        app:srcCompat="@drawable/ic_launcher_background"
+        tools:ignore="VectorDrawableCompat"/>
+
+    <TextView
+        android:id="@+id/post_item_yorum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Yorum"
+        android:textSize="18sp"
+        android:layout_margin="5dp"
+        android:textColor="#365197"
+        >
+    </TextView>
+</LinearLayout>
