@@ -4,7 +4,7 @@ Firebase kullanılarak yaptığım uygulama Giriş ekranıyla açılmaktadır. F
 
 Not: Uygulamayı çalıştırmak için Firebase panelinden aldığınız "google-services.json" dosyasını "app" klasörü altına yükleyiniz.
 
-![Giriş - Login](https://github.com/alibknc/MyFirstProjects-Kotlin-/blob/main/photoshare/screenshots/login.jpg)
+![Giriş - Login](https://github.com/alibknc/MyFirstProjects-Kotlin-/blob/main/photoshare/screenshots/login.jpg | width = 100)
 ![Ana Sayfa - Home](https://github.com/alibknc/MyFirstProjects-Kotlin-/blob/main/photoshare/screenshots/home.jpg)
 ![Yeni Gönderi - New Post](https://github.com/alibknc/MyFirstProjects-Kotlin-/blob/main/photoshare/screenshots/selectPhoto.jpg)
 ![Yorum - Comment](https://github.com/alibknc/MyFirstProjects-Kotlin-/blob/main/photoshare/screenshots/comment.jpg)
